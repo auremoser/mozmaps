@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-11-07T21:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1330622212",
+      "properties": {
+        "@id": "node/1330622212",
+        "natural": "palaeontological_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1788969,
+          -35.2984394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2403396549",
+      "properties": {
+        "@id": "node/2403396549",
+        "natural": "palaeontological_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6543806,
+          55.2092166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3133043208",
+      "properties": {
+        "@id": "node/3133043208",
+        "name": "Sítio fossilífero da Fazenda Rivadávia",
+        "natural": "palaeontological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9897488,
+          -25.3059307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3133118970",
+      "properties": {
+        "@id": "node/3133118970",
+        "addr:city": "Tibagi",
+        "addr:street": "Pe do Guartelá",
+        "name": "Lapa Floriano",
+        "natural": "palaeontological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2411243,
+          -24.5764415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3133118971",
+      "properties": {
+        "@id": "node/3133118971",
+        "addr:city": "Tibagi",
+        "addr:street": "PE do Guartelá",
+        "name": "Lapa Ponciano",
+        "natural": "palaeontological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2491062,
+          -24.5688459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3566856351",
+      "properties": {
+        "@id": "node/3566856351",
+        "name": "三崁山化石出土區",
+        "natural": "palaeontological_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3957904,
+          23.0425621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3713639828",
+      "properties": {
+        "@id": "node/3713639828",
+        "name": "Менілітова фауна",
+        "natural": "palaeontological_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6046418,
+          49.0851862
+        ]
+      }
+    }
+  ]
+}
