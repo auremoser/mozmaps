@@ -1,16 +1,12 @@
 # Mapping the Matrix: Open Cartography with Scientific and Spatial Data
 
-## mozmaps
-
-[workshop] building dynamic maps with CartoDB + Mozilla Science (MozFest 2015)
-
-## facilitators
+### facilitators
 
 * Aurelia Moser, CartoDB, @auremoser
 * Stuart Lynn, CartoDB, @Stuart_Lynn
 * Dave Riordan, Mapzen, @riordan
 
-## links
+### links
 
 * [Etherpad](https://public.etherpad-mozilla.org/p/Mapping-the-matrix-open-cartography)
 * [Script]()
