@@ -9,7 +9,7 @@
 ### links
 
 * [Etherpad](https://public.etherpad-mozilla.org/p/Mapping-the-matrix-open-cartography)
-* [Script]()
+* [Script](https://gist.github.com/auremoser/e238c268742e4f048236)
 
 ### abstract
 
