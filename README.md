@@ -15,6 +15,7 @@
 
 Maps are popular visualizations applied to all scientific disciplines, satisfying studies in curiosity beyond terrestrial cartography. We'll learn how to best apply cartographic tools to spatial problems and thereby provide complex information with visual clarity, covering sci-cartography from the subatomic to the cosmic levels, and beyond.
 
+![Earthquakes + Faults](https://raw.githubusercontent.com/auremoser/extract-15/master/img/quakes.jpg)
 
 ### examples
 
